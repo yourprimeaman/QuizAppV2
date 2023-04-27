@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="fa_fa_facebook_dark">#3b5998</color>
+    <color name="fa_fa_facebook_light">#4267B2</color>
+    <color name="gray">#e0e0e0</color>
+    <color name="primary">#3B71CA</color>
+    <color name="secondry">#9FA6B2</color>
+    <color name="success">#14A44D</color>
+    <color name="danger">#DC4C64</color>
+    <color name="info">#54B4D3</color>
+    <color name="warning">#E4A11B</color>
+    <color name="light">#FBFBFB</color>
+    <color name="dark">#332D2D</color>
+</resources>
